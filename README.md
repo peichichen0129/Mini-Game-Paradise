@@ -11,13 +11,16 @@ A C# Windows Forms project with 3 nostalgic mini games and login system. Made du
 
 ### Included Mini Games
 1. **Fly Plane** 
-   A Flappy Bird-inspired game. Press the spacebar to control the plane and avoid pipes. Focus training game with score tracking.
+
+A Flappy Bird-inspired game. Press the spacebar to control the plane and avoid pipes. Focus training game with score tracking.
 
 2. **Animal Spin** 
-   A slot machine-inspired game. Press the button to spin animal images and text using a `Timer`, with different sound effects depending on the outcome.
+
+A slot machine-inspired game. Press the button to spin animal images and text using a `Timer`, with different sound effects depending on the outcome.
 
 3. **Ticket Battle**  
-   A light RPG game with dialogues and a music quiz. Inspired by the experience of fighting for Jay Chou concert tickets. Choose the correct song to proceed with the story.
+
+A light RPG game with dialogues and a music quiz. Inspired by the experience of fighting for Jay Chou concert tickets. Choose the correct song to proceed with the story.
 
 ## Features Implemented
 - Functional login interface with credential verification.
@@ -46,10 +49,11 @@ Undergraduate student at National Chiayi University, Department of Computer Scie
 ---
 
 Feel free to explore the code and try out the games!
+![螢幕擷取畫面 2025-04-30 231449](https://github.com/user-attachments/assets/46d475de-3f27-4b11-b150-dc57a21f2e2d)
+![螢幕擷取畫面 2025-04-30 231513](https://github.com/user-attachments/assets/caf25b6f-3715-442d-89ff-e9c9f9374c03)
+![螢幕擷取畫面 2025-04-30 231523](https://github.com/user-attachments/assets/9b1edf52-26af-4e8d-a3bc-61e3a70503bf)
+![螢幕擷取畫面 2025-04-30 231532](https://github.com/user-attachments/assets/4712237f-ff63-4259-b869-d4722abe5510)
+![螢幕擷取畫面 2025-04-30 231542](https://github.com/user-attachments/assets/c54897ff-265c-49d2-a3e9-faca0fddaf6a)
+![螢幕擷取畫面 2025-04-30 231556](https://github.com/user-attachments/assets/213d0fe0-451d-48c4-8aa0-914b3c8ad056)
 
-![螢幕擷取畫面 2025-04-30 231513](https://github.com/user-attachments/assets/083cdce5-6503-479f-aa38-c989f9cad773)
-![螢幕擷取畫面 2025-04-30 231449](https://github.com/user-at![螢幕擷取畫面 2025-04-30 231523](https://github.com/user-attachments/assets/57ae71ed-145e-4dcc-9b52-b0a105318781)
-tachments/assets/269ce9d6-8a08-44b6-8e48-1ed5ffe4e7c0)
-![螢幕擷取畫面 2025-04-30 231556](https://github.com/user-attachments/assets/1e20a2a7-e68c-470b-a912-fdd8402962b1)
-![螢幕擷取畫面 2025-04-30 231542](https://github.com/user-attachments/assets/ad720277-2abc-4d53-a2df-3058a76e9297)
-![螢幕擷取畫面 2025-04-30 231532](https://github.com/user-attachments/assets/9c19e34d-aa9f-4d4c-a4e2-4ed53559326f)
+
