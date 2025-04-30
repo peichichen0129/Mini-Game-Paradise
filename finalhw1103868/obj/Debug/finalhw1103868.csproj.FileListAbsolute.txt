@@ -1,0 +1,17 @@
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.csproj.AssemblyReference.cache
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.csproj.SuggestedBindingRedirects.cache
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalproject.Form1.resources
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.Formlogin.resources
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.Properties.Resources.resources
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.csproj.GenerateResource.cache
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.csproj.CoreCompileInputs.cache
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\bin\Debug\finalhw1103868.exe.config
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\bin\Debug\finalhw1103868.exe
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\bin\Debug\finalhw1103868.pdb
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.exe
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.pdb
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalproject.Form7.resources
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\Interop.WMPLib.dll
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.csproj.ResolveComReference.cache
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalproject.Form4.resources
+C:\Users\guapi\source\repos\finalhw1103868\finalhw1103868\obj\Debug\finalhw1103868.Form8.resources
